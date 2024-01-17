@@ -2,7 +2,7 @@
 <div class="header_section">
     <div class="header_main">
        <div class="container-fluid">
-          <div class="logo"><a href="index.html"><img src="images/logo3.png"></a></div>
+          <div class="logo"><a href="{{route('home')}}"><img src="images/logo3.png"></a></div>
           <div class="menu_main">
              <ul>
                 <li class="active"><a href="{{route('home')}}">Home</a></li>

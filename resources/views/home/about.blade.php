@@ -4,7 +4,7 @@
           <div class="col-md-6">
              <div class="about_taital_main">
                 <h1 class="about_taital">About Us</h1>
-                <p class="about_text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All </p>
+                <p class="about_text">Integer vitae faucibus metus. Sed nec maximus tellus. Phasellus sit amet semper enim. Fusce a enim euismod sapien consectetur tincidunt. Vivamus laoreet vulputate feugiat</p>
                 <div class="readmore_bt"><a href="#">Read More</a></div>
              </div>
           </div>

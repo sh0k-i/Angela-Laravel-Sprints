@@ -4,15 +4,13 @@
     @include('main_css')
    </head>
    <body>
-      <!-- header section start -->
+      <!-- nav -->
       @include('acc.acc_nav')
-      <!-- header section end -->
-      <!-- services section start -->
+
       <div class="services_section layout_padding">
          <div class="container">
             <h1 class="services_taital">Account </h1>
             <p class="services_text">Welcome to your account!</p>
-            <!-- todo: add button for "create a post" that will toggle a box inside the page to enter the post -->
             <div id="createPostButton" class="btn_main">
                 <a href="#">Create a post</a>
             </div>
@@ -51,13 +49,9 @@
             </div>
          </div>
       </div>
-      <!-- services section end -->
-      <!-- footer section start -->
+
       <div class="footer_section layout_padding">
       </div>
-      <!-- footer section end -->
-      <!-- copyright section start -->
-      <!-- copyright section end -->
       <!-- Javascript files-->
       <script src="js/jquery.min.js"></script>
       <script src="js/popper.min.js"></script>

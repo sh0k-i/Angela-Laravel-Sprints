@@ -1,7 +1,7 @@
 <div class="services_section layout_padding">
     <div class="container">
        <h1 class="services_taital">Check out new posts</h1>
-       <p class="services_text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration</p>
+       <p class="services_text">Aliquam quis nunc ex. Nam risus arcu, rutrum et hendrerit a, vehicula eu nibh. Vestibulum nec tempus nisl</p>
        <div class="services_section_2">
           <div class="row">
              <div class="col-md-4">

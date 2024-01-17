@@ -5,22 +5,18 @@
       @include('main_css')
    </head>
    <body>
-      <!-- header section -->
+      <!-- header  -->
       <div class="header_section">
         @include('home.header')
-        <!-- banner section -->
+
         @include('home.banner')
       </div>
-      <!-- header section end -->
 
-      <!-- services section start -->
+      <!-- posts -->
       @include('home.services')
-      <!-- about section start -->
+      @include('home.carousel')
+      <!-- about -->
       @include('home.about')
-      <!-- blog section start -->
-
-      <!-- footer section start -->
-      <!-- copyright section start -->
 
       <!-- Javascript files-->
       <script src="js/jquery.min.js"></script>

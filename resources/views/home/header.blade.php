@@ -2,7 +2,7 @@
 
 
     <div class="container-fluid">
-        <div class="logo"><a href="index.html"><img src="images/logo3.png"></a></div>
+        <div class="logo"><a href="{{route('home')}}"><img src="images/logo3.png"></a></div>
         <div class="menu_main" id="navbar">
             <ul>
                 <li class="active"><a href="{{route('home')}}">Home</a></li>

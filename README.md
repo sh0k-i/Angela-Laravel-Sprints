@@ -31,5 +31,3 @@
 
 ## 9. Account Page
 - Developed an account page to provide users with personalized information.
-
-Feel free to further explore the project and its codebase. If you have any questions or need additional assistance, please refer to the code comments or reach out for support.
